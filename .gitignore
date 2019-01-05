@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+
+# Build system
+node_modules/*
+
+# Dist
+dist/*
